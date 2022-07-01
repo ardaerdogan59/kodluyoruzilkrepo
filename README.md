@@ -18,7 +18,6 @@ Bu repo  [Kodluyoruz](https://app.patika.dev/)  Front-End Eğitiminde oluşturdu
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 ```
-
 cd kodluyoruzilkrepo
 code .
 ```
